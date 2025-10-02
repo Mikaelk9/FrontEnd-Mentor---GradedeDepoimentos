@@ -13,7 +13,7 @@ Neste projeto, o desafio é construir esta página de Seção de grade de depoim
 <img src="./preview.jpg" alt="Preview" width="600" />
 
 ## Visualização 
-Acesse o resultado final do desafio clicando em [Página Grade de Depoimentos](*)
+Acesse o resultado final do desafio clicando em [Página Grade de Depoimentos](https://front-end-mentor-gradede-depoimento.vercel.app)
 
 ## Tecnologias Usadas
 - Html
